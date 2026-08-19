@@ -1,4 +1,4 @@
-# Your Name
+# Logan Wilson
 Data Science Student  
 UNC Charlotte
 ## About Me
