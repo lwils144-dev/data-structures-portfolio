@@ -9,3 +9,4 @@ I am a 3rd year Sports Analytics Major at UNC Charlotte with a data driven work 
 - [Blog](blog.md)
 - [Projects](projects.md)
 - [LinkedIn](LinkedIn.md)
+- [Resume](Resume.md)
