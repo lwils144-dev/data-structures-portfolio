@@ -46,13 +46,13 @@ Chart 1 — Top 25 non-QB players (RB/WR/TE), projected vs. actual 2020 PPR poin
 
 ![Top 25 non-QB players: projected vs actual fantasy points, 2020]({{ site.baseurl }}/assets/images/project1-chart1-nonqb.png)
 
-Each row is one player; the blue dot marks their pre-season projection, the orange dot their actual season total. Almost every player in this top 25 finished above their projected fantasy output — the only exception was Mike Evans. Most players in the lower half of this group (ranked 15th–25th) landed within about 50 points of their projection, while several near the top posted breakout seasons roughly 100+ points above projection (Alvin Kamara and Davante Adams stand out).
+Each row is one player; the blue dot marks their pre-season projection, the orange dot their actual season total. Almost every player in this top 25 finished above their projected fantasy output, the only exception was Mike Evans. Most players in the lower half of this group (ranked 15th–25th) landed within about 50 points of their projection, while several near the top posted breakout seasons roughly 100+ points above projection (Alvin Kamara and Davante Adams stand out).
 
 Chart 2 — Top 25 QBs, projected vs. actual 2020 PPR points
 
 ![Top 25 QBs: projected vs actual fantasy points, 2020]({{ site.baseurl }}/assets/images/project1-chart2-qb.png)
 
-Same chart structure, restricted to quarterbacks. Unlike the skill-position chart, QB projections were much less consistent in direction: in the lower half of this list (ranked 15th–25th), almost every QB finished under their projection, while in the top 10 almost all finished above projection — the one exception being Lamar Jackson, who had been projected as the QB1 for the season.
+Same chart structure, restricted to quarterbacks. Unlike the skill-position chart, QB projections were much less consistent in direction: in the lower half of this list (ranked 15th–25th), almost every QB finished under their projection, while in the top 10 almost all finished above projection, the one exception being Lamar Jackson, who had been projected as the QB1 for the season.
 
 5. Storytelling and Narrative
 
