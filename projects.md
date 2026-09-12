@@ -85,12 +85,4 @@ Madsen, J. K. (2025). Goal-line oracles: Exploring accuracy of wisdom of the cro
 
 Butler, D., Butler, R., & Eakins, J. (2021). Expert performance and crowd wisdom: Evidence from English Premier League predictions. European Journal of Operational Research, 288(1), 170–182. https://doi.org/10.1016/j.ejor.2020.05.034
 
-See task progress for longer tasks.
 
-project1-chart2-qb.png
-project1-chart1-nonqb.png
-projects.md
-project1_writeup.md
-DTSC 2
-Web search
-4 searches
