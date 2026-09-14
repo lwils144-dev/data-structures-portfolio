@@ -66,8 +66,7 @@ PPR-only scoring. Both the projections and actual data are compared under PPR sc
 What I'd explore next: Running this across multiple seasons (not just 2020) to see whether the QB vs. skill-position predictability gap holds up consistently, and comparing multiple independent projection sources against each other rather than just one.
 7. Code and Transparency
 
-Code repository: github.com/lwils144-dev/data-structures-portfolio
-                 file:///Users/loganwilson9/Library/CloudStorage/OneDrive-UniversityofNorthCarolinaatCharlotte/DTSC%202/project_1.html
+Code repository: file:///Users/loganwilson9/Library/CloudStorage/OneDrive-UniversityofNorthCarolinaatCharlotte/DTSC%202/project_1.html
 
 Data sources:
 
