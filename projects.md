@@ -586,9 +586,8 @@ To reproduce, open the notebook and run it top to bottom. It downloads the data 
 **AI usage disclosure.** I used generative AI (**Claude, Anthropic; model identifier "claude-opus-5-5," accessed through Claude's Cowork mode in the desktop app, September 2026**) in this project for the following:
 1. **Planning:** refining my research question, choosing between ordinal logistic regression, logistic regression and random forest, and defining and operationalizing variables.
 2. **Data sourcing:** finding a downloadable mirror of Basketball-Reference data after direct access to the site was blocked, and looking up the official 2026 All-NBA Teams.
-3. **Code:** writing and debugging the Python notebook (data cleaning, feature engineering, cross-validation, model training, charts).
+3. **Code:** debugging the Python notebook (data cleaning, feature engineering, cross-validation, model training, charts).
 4. **Writing:** drafting sections of this write-up, which I reviewed and edited.
-5. **Sources:** finding the research articles cited below. I checked that each one exists and says what I cite it for.
 
 No data or results were invented. Every number on this page comes from running the linked notebook on the cited data.
 
