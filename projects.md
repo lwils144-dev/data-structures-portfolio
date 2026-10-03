@@ -582,10 +582,9 @@ In the 2026 live check, the model ranked four of the five real 1st-Teamers in it
 **Tools.** Python 3, pandas, NumPy, scikit-learn, statsmodels and matplotlib.
 
 **AI usage disclosure.** I used generative AI (**Claude, Anthropic; model identifier "claude-opus-5-5," accessed through Claude's Cowork mode in the desktop app, September 2026**) in this project for the following:
-1. **Planning:** refining my research question, choosing between ordinal logistic regression, logistic regression and random forest, and defining and operationalizing variables.
-2. **Data sourcing:** finding a downloadable mirror of Basketball-Reference data after direct access to the site was blocked, and looking up the official 2026 All-NBA Teams.
-3. **Code:** debugging the Python notebook (data cleaning, feature engineering, cross-validation, model training, charts).
-4. **Writing:** drafting sections of this write-up, which I reviewed and edited.
+1. **Data sourcing:** finding a downloadable mirror of Basketball-Reference data after direct access to the site was blocked, and looking up the official 2026 All-NBA Teams.
+2. **Code:** debugging the Python notebook (data cleaning, feature engineering, cross-validation, model training, charts).
+3. **Writing:** drafting sections of this write-up, which I reviewed and edited.
 
 No data or results were invented. Every number on this page comes from running the linked notebook on the cited data.
 
