@@ -579,8 +579,6 @@ In the 2026 live check, the model ranked four of the five real 1st-Teamers in it
 
 **Code.** Jupyter Notebook with all code, output and charts: [project2_all_nba.ipynb](https://github.com/lwils144-dev/data-structures-portfolio/blob/main/project2_all_nba.ipynb)
 
-To reproduce, open the notebook and run it top to bottom. It downloads the data itself, and the random seed is fixed at 42.
-
 **Tools.** Python 3, pandas, NumPy, scikit-learn, statsmodels and matplotlib.
 
 **AI usage disclosure.** I used generative AI (**Claude, Anthropic; model identifier "claude-opus-5-5," accessed through Claude's Cowork mode in the desktop app, September 2026**) in this project for the following:
