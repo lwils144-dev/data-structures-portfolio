@@ -1,5 +1,5 @@
 # Logan Wilson
-Data Science Student  
+Data Science / Sports Analytics Student  
 UNC Charlotte
 ---
 ## About Me
